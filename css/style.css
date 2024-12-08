@@ -16,12 +16,11 @@ h2 {
 
 select {
   display: block;
-  width: 100px;
+  width: 100%;
   font-size: 18px;
   border-radius: 4px;
   padding: 10px;
 }
-
 .main {
   max-width: 600px;
   margin: 60px auto;
